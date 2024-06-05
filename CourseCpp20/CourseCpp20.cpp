@@ -1,5 +1,3 @@
-//03/Jun/2024
-
 #include <iostream>
 #include <vector>
 
